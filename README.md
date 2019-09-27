@@ -12,4 +12,4 @@
 [CodeSandbox](https://codesandbox.io/s/romantic-lichterman-lbxx3)
 
 #### UML
-![UML Diagram](https://imgur.com/a/UmPGz3H)
+![UML Diagram](https://i.imgur.com/NTjO0Se.jpg)
